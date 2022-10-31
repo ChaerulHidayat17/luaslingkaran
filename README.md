@@ -7,7 +7,7 @@
 5. lalu kita menghitung keliling lingkaran dengan cara keliling = phi\*diameter
 6. lalu kita tampilkan hasil luas dan keliling lingkaran
 
-[gambar1](foto/1.png) <br><br>
-[gambar2](foto/2.png) <br><br>
+![gambar1](foto/1.png) <br><br>
+![gambar2](foto/2.png) <br><br>
 
 Terima kasih kita sudah berhasil membuat program menghitung luas dan keliling lingkaran
